@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Kriti Sahu
 
-<!--
-**kirtisahu82/kirtisahu82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Data Science | Machine Learning | Deep Learning
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Building real-world data science projects
+- Passionate about Data Science, Machine Learning and Analytics
+- Exploring Deep Learning and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | SQL | Pandas | NumPy | Machine Learning | Flask
+
+## 📂 Featured Projects
+🔹 AI Health Insights Platform  
+🔹 Job Search Web App  
+🔹 AI Image Generator  
+🔹 Machine Learning Project
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/kirtiisahu15
