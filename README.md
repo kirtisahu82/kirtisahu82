@@ -14,7 +14,8 @@ Python | SQL | Pandas | NumPy | Machine Learning | Flask
 🔹 AI Health Insights Platform  
 🔹 Job Search Web App  
 🔹 AI Image Generator  
-🔹 Machine Learning Project
+🔹 House Price Prediction ML
+🔹 NLP Spam Message Detector
 
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/kirtiisahu15
